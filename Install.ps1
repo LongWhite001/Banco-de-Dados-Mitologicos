@@ -1,5 +1,5 @@
 # 1. Configurações de caminhos
-$urlZip = "https://github.com"
+$urlZip = "https://github.com/LongWhite001/Banco-de-Dados-Mitologicos/releases/download/1.0/pacote.zip"
 $arquivoZip = "$env:TEMP\pacote.zip"
 $pastaDestino = "$env:TEMP\MeuApp"
 
